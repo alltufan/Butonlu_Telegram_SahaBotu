@@ -8,7 +8,7 @@ import openpyxl
 import pandas as pd
 
 
-TOKEN=""
+TOKEN="Telegram BOT TOKEN Here"
 bot=telebot.TeleBot(TOKEN)
 
 
