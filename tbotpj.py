@@ -8,7 +8,7 @@ import openpyxl
 import pandas as pd
 
 
-TOKEN="6204846959:AAHudAIpNuEOcAhoQPBPUt998luaPkrDFGQ"
+TOKEN=""
 bot=telebot.TeleBot(TOKEN)
 
 
